@@ -1,0 +1,3 @@
+tabs: ["hello.js"]
+run-button: node hello.js
+terminals: echo 'hello there, checkout the Instructions and Challenges of this lab'
